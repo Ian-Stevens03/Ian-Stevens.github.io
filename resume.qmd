@@ -3,7 +3,7 @@ layout: cv
 title: Ian Stevens's CV
 ---
 # Ian Stevens
-Physicist, Mathematician, College Student.
+Partner, Brother, College Student.
 
 <div id="webaddress">
 <a href="ians.stevens@gmail.com">ians.stevens@gmail.com</a>
